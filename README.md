@@ -1,3 +1,3 @@
 # KaggleComp
 
-Repository storing notebooks used for Kaggle Competitions
+Repository storing files used for Kaggle Competitions
